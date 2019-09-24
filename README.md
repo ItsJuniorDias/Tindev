@@ -1,5 +1,5 @@
 # Tindev
-![Preview-Screens](https://github.com/ItsJuniorDias/Tindev-JavaScript/frontend/src/assets/print-horz.jpg)
+![Preview-Screens](https://github.com/ItsJuniorDias/Tindev-JavaScript/frontend/src/assets/print-horz.png)
 # Semana Omnistack #8 | Rocketseat
  - Desenvolvimento de uma aplicação utilizando a stack *Node.js*, *ReactJS* e *React Native*
 
