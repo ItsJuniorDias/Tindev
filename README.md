@@ -1,23 +1,23 @@
 # Tindev
 ![print-horz_1](https://user-images.githubusercontent.com/50254416/65558895-d0f89900-df0e-11e9-9971-e71d585cfe42.png)
-# Semana Omnistack #8 | Rocketseat
- - Desenvolvimento de uma aplicação utilizando a stack *Node.js*, *ReactJS* e *React Native*
+# Week Omnistack #8 | Rocketseat
+ - Development of an application using the stack *Node.js*, *ReactJS* e *React Native*
 
 
-## A Aplicação
- - A aplicação a ser desenvolvida será similiar ao Tinder, porém, para desenvolvedores;
- - Os desenvolvedores serão cadastrados através do usuário do Github;
- - Os dados retornados de uma requisição feita a API do Github serão salvos no banco de dados;
- - Será possível dar like e dislike nos usuários;
+## App
+ - The application to be developed will be similar to Tinder, but for developers;;
+ - Developers will be registered through the Github user;
+ - Data returned from a Github API request will be saved to the database;
+ - It will be possible to like and dislike users;
 
- - Devido à arquitetura do **Node**, através de um **websocket**, será feita a comunicação entre o servidor e o frontend em tempo real;
+ - Due to the architecture of the ** Node **, through a ** websocket **, communication will be made between the server and the frontend in real time;
 
-## Day 2
- - Configuração do **express**, um microframework que lida com rotas, requisições e respostas;
- - Configuração do **nodemon** para monitorar alteração no código e reiniciar o servidor automaticamente quanto houver alterações;
- - Criação dos *Models* e *Controllers*;
- - Configuração do **mongoose** (ODM que utiliza sintaxe Javascript) para lidar com **MongoDB**, um banco de dados não-relacional;
- - Utilização de **axios** para lidar com requisições a API externas.
+## Configuration
+  - configuration ** Express ** , a microframework that deals with routes, requests and responses;
+  - ** nodemon ** configuration to monitor code changes and restart the server automatically when changes occur;
+  - Creation of * Models * and * Controllers *;
+  - Configuration of ** mongoose ** (ODM that uses Javascript syntax) to handle ** MongoDB **, a nonrelational database;
+  - Using ** axes ** to handle external API requests.
 
-## Day 4
-  - Configuração do **socket.io**, bliblioteca que abstrai o protocolo de websocket padrão do Node e provê uma forma mais fácil de trabalhar com ele
+## Web Socket
+  - Configuration **socket.io**, library that abstracts from Node's standard websocket protocol and provides an easier way to work with it
