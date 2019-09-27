@@ -22,3 +22,24 @@
 
 ## Web Socket
   - Configuration **socket.io**, library that abstracts from Node's standard websocket protocol and provides an easier way to work with it
+  
+  ## Frontend
+
+## Configuration
+  - Configuration **BrowserRouter** and **Route** (lib * react-router-dom *) to handle navigation and each route individually;
+  - Configuration of **axios** to make the request to the database;
+  - Stylization of github Login pages and user listings;
+  - Implementation of the like and dislike features;
+
+## Web Socket
+  - configuration **socket.io-client**, responsible for creating a connection via websocket protocol;
+  
+  ## Mobile
+  
+  ## Configuration
+  
+  - Using **react-navigation** to deal with navigation in a basic way;
+  - Use of **react-native-gesture-handler**, dependent on *react-navigation*, responsible for handling user gestures;
+  - Use of **react-native-reanimated**, used to animate transitions at times when the user navigates between screens;
+  - Configuration of **axios** to make requests to external APIs;
+  - Using **asyncStorage** as local database in format and working in key format => value
