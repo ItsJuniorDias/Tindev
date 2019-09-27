@@ -2,9 +2,20 @@
 ![print-horz_1](https://user-images.githubusercontent.com/50254416/65558895-d0f89900-df0e-11e9-9971-e71d585cfe42.png)
 # Week Omnistack #8 | Rocketseat
  - Development of an application using the stack *Node.js*, *ReactJS* e *React Native*
+ 
+## Why?
+This project is part of my portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
+
+Email-me: juniordias_@live.com
+Connect with me at [LinkedIn](https://www.linkedin.com/in/alexandre-junior-236894190/).
+
+## Installers
+If you want to test the App in the Production mode, the installers are listed below
+- NodeJs [link](https://nodejs.org/en/download/)for backend.
+- ReactJs [](https://reactjs.org/docs/getting-started.html)for frontend.
+- ReactNative [](https://facebook.github.io/react-native/docs/getting-started) for mobile
 
 ## Backend
-
 ## App
  - The application to be developed will be similar to Tinder, but for developers;;
  - Developers will be registered through the Github user;
