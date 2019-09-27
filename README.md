@@ -55,3 +55,33 @@ If you want to test the App in the Production mode, the installers are listed be
 - Use of **react-native-reanimated**, used to animate transitions at times when the user navigates between screens;
 - Configuration of **axios** to make requests to external APIs;
 - Using **asyncStorage** as local database in format and working in key format => value
+
+## Getting Started
+
+### Prerequisites
+
+To run this project in the development mode, you'll need to have a basic environment to run a React and React Native App, also,  that can be found [here](https://facebook.github.io/react-native/docs/getting-started).
+
+### Installing
+
+**Cloning the Repository**
+
+```
+$ git clone https://github.com/ItsJuniorDias/Tindev-JavaScript
+
+$ cd Tindev-JavaScript
+```
+
+**Installing dependencies**
+
+```
+$ yarn
+```
+
+_or_
+
+```
+$ npm install
+```
+
+
