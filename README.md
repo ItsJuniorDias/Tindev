@@ -75,7 +75,7 @@ $ cd Tindev-JavaScript
 **Installing dependencies**
 
 ```
-$ yarn
+$ yarn add nodemon
 ```
 
 _or_
