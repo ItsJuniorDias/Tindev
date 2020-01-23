@@ -76,9 +76,9 @@ To run this project in the development mode, you'll need to have a basic environ
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/ItsJuniorDias/Tindev-JavaScript
+$ git clone https://github.com/ItsJuniorDias/Tindev
 
-$ cd Tindev-JavaScript
+$ cd Tindev
 ```
 
 **Installing dependencies**
