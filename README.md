@@ -1,4 +1,18 @@
-# Tindev  🔥
+<div align="center">
+  <img src="./frontend/src/assets/logo.svg" height="100px" alt="Be the hero"/>
+</div>
+
+<div align="center">
+
+  #### A meeting between programmers so they can share and share knowledge and experience
+
+
+  ![](https://img.shields.io/badge/author-Junior%20Dias-brightgreen)
+  ![](https://img.shields.io/badge/Back--End-NodeJS-brightgreen)
+  ![](https://img.shields.io/badge/Front--End-ReactJS-brightgreen)
+  ![](https://img.shields.io/badge/Mobile-React%20Native-brightgreen)
+</div> 
+### Tindev  🔥
 ![print-horz_1](https://user-images.githubusercontent.com/50254416/65558895-d0f89900-df0e-11e9-9971-e71d585cfe42.png)
 # Week Omnistack #8 | Rocketseat
  - Development of an application using the stack *Node.js*, *ReactJS* e *React Native*
